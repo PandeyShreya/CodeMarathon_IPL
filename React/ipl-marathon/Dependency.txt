@@ -1,0 +1,10 @@
+npm i @testing-library/react --save-dev
+npm i axios --save-dev
+npm i bootstrap --save-dev
+npm i react-redux --save-dev
+npm i react-router-dom --save-dev
+npm i redux --save-dev
+
+
+--optional--
+npm i node-modules --save-dev
