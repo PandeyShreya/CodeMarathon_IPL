@@ -8689,11 +8689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Marathon.csproj",
+      "projectUniqueName": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Marathon.csproj",
       "projectName": "Marathon",
-      "projectPath": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Marathon.csproj",
+      "projectPath": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Marathon.csproj",
       "packagesPath": "C:\\Users\\Shreya.pandey\\.nuget\\packages\\",
-      "outputPath": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\obj\\",
+      "outputPath": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

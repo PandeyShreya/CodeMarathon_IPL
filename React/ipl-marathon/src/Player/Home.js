@@ -1,14 +1,11 @@
-import pic1 from "../Image/pic1.jpg"
+import ipl from "../Image/ipl.jpg"
 import Navbar from "./Navbar"
 
 const Home=()=>{
     return <>  
     <Navbar/>
-    <img src={pic1} style={{ width: "70%"}} alt='Pic Image' />   
+    <img src={ipl} style={{ width: "70%"}} alt='IPL Image' />   
     </>
 }
 
 export default Home
-
-
-

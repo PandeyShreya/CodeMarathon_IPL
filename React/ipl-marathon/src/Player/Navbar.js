@@ -7,29 +7,20 @@ const Navbar=()=>{
     <nav>
         <h1>IPL Marathon</h1>
         <li>
-            <Link to='/'>Home</Link>
-        </li>
-        <li>
             <Link to='/addplayer'>Add Player</Link>
         </li>
         <li>
         <Link to='/matchstatistic'>Match Statistic</Link>
         </li>
-        
-        
+        <li>
+        <Link to='/topplayer'>Top Players</Link>
+        </li>
+        <li>
+        <Link to='/matchbyrange'>Match Details</Link>
+        </li>
     </nav>
-    
     
     </>
 }
 
 export default Navbar
-
-
-
-{/* <li>
-        <Link to='/topplayer'>Top Players</Link>
-        </li> */}
-{/* <li>
-        <Link to='/matchbyrange'>Match Details</Link>
-        </li> */}

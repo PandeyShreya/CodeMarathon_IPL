@@ -3,9 +3,9 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #ca0e0e;
-    padding: 30px 20px; 
-    color: rgb(79, 77, 77);
+    background-color: #333;
+    padding: 10px 20px; 
+    color: white;
 }
 
 nav h1 {

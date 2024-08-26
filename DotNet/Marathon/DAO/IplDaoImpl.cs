@@ -76,7 +76,7 @@ namespace Marathon.DAO
 
 
             return rowInserted;
-        }
+        }   
 
         //Problem 2: Get Detailed Match statistics for each match
         public async Task<List<MatchStatistic>> GetMatchStatistics()

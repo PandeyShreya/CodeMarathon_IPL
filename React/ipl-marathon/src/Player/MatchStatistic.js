@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 import { GetMatchStatistic} from "../Service/ApiService"
-
+import "../CSS/MatchStatistic.css"
 import Navbar from "./Navbar"
 
 const MatchStatistic=()=>{

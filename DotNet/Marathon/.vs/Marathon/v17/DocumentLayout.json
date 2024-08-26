@@ -1,48 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\",
+  "WorkspaceRootPath": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25A1599E-2DB6-4729-AF4F-6F298667BD1D}|..\\Marathon.Test\\Marathon.Test.csproj|d:\\git training\\sitraining1\\netcore\\marathon.test\\marathonapiendpointtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\git training\\sitraining1\\netcore\\marathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\git training\\sitraining1\\netcore\\marathon\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\git training\\sitraining1\\netcore\\marathon\\dao\\iipldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:dao\\iipldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\git training\\sitraining1\\netcore\\marathon\\controllers\\iplcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\controllers\\iplcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:controllers\\iplcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\git training\\sitraining1\\netcore\\marathon\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\git training\\sitraining1\\netcore\\marathon\\dao\\ipldaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\dao\\ipldaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:dao\\ipldaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\git training\\sitraining1\\netcore\\marathon\\models\\playerstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\dao\\iipldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:dao\\iipldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\MarathonAPIEndPointTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\models\\playerstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:models\\playerstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\git training\\sitraining1\\netcore\\marathon\\models\\matchstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\models\\matchstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:models\\matchstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25A1599E-2DB6-4729-AF4F-6F298667BD1D}|..\\Marathon.Test\\Marathon.Test.csproj|d:\\git training\\sitraining1\\netcore\\marathon.test\\marathon.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\campus training\\codemarathon_ipl\\dotnet\\marathon\\marathon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:marathon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|d:\\git training\\sitraining1\\netcore\\marathon\\marathon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5CA9EAF4-0370-4248-A773-D2CCF85F9ABF}|Marathon.csproj|solutionrelative:marathon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\Marathon.Test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +56,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,23 +64,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerStatistic.cs",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Models\\PlayerStatistic.cs",
-              "RelativeDocumentMoniker": "Models\\PlayerStatistic.cs",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Models\\PlayerStatistic.cs",
-              "RelativeToolTip": "Models\\PlayerStatistic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "IplDaoImpl.cs",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\DAO\\IplDaoImpl.cs",
+              "RelativeDocumentMoniker": "DAO\\IplDaoImpl.cs",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\DAO\\IplDaoImpl.cs",
+              "RelativeToolTip": "DAO\\IplDaoImpl.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwE4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T06:54:20.883Z"
+              "WhenOpened": "2024-08-20T05:11:23.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPLController.cs",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Controllers\\IPLController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IPLController.cs",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Controllers\\IPLController.cs",
+              "RelativeToolTip": "Controllers\\IPLController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAgwFEAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:09:31.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:15:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIplDao.cs",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\DAO\\IIplDao.cs",
+              "RelativeDocumentMoniker": "DAO\\IIplDao.cs",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\DAO\\IIplDao.cs",
+              "RelativeToolTip": "DAO\\IIplDao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:10:53.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T06:08:24.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "MarathonAPIEndPointTest.cs",
+              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\MarathonAPIEndPointTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\MarathonAPIEndPointTest.cs",
+              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\MarathonAPIEndPointTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\MarathonAPIEndPointTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:40:38.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Models\\Player.cs",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Models\\Player.cs",
               "RelativeDocumentMoniker": "Models\\Player.cs",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Models\\Player.cs",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Models\\Player.cs",
               "RelativeToolTip": "Models\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,35 +152,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPLController.cs",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Controllers\\IPLController.cs",
-              "RelativeDocumentMoniker": "Controllers\\IPLController.cs",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Controllers\\IPLController.cs",
-              "RelativeToolTip": "Controllers\\IPLController.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAcwE8AAAAwAAAA",
+              "DocumentIndex": 8,
+              "Title": "PlayerStatistic.cs",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Models\\PlayerStatistic.cs",
+              "RelativeDocumentMoniker": "Models\\PlayerStatistic.cs",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Models\\PlayerStatistic.cs",
+              "RelativeToolTip": "Models\\PlayerStatistic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T05:09:31.126Z"
+              "WhenOpened": "2024-08-20T06:54:20.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IIplDao.cs",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\DAO\\IIplDao.cs",
-              "RelativeDocumentMoniker": "DAO\\IIplDao.cs",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\DAO\\IIplDao.cs",
-              "RelativeToolTip": "DAO\\IIplDao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T05:10:53.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Match.cs",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Models\\Match.cs",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Models\\Match.cs",
               "RelativeDocumentMoniker": "Models\\Match.cs",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Models\\Match.cs",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Models\\Match.cs",
               "RelativeToolTip": "Models\\Match.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAYwAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,49 +176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MarathonAPIEndPointTest.cs",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\MarathonAPIEndPointTest.cs",
-              "RelativeDocumentMoniker": "..\\Marathon.Test\\MarathonAPIEndPointTest.cs",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\MarathonAPIEndPointTest.cs",
-              "RelativeToolTip": "..\\Marathon.Test\\MarathonAPIEndPointTest.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T07:40:38.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T05:15:26.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IplDaoImpl.cs",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\DAO\\IplDaoImpl.cs",
-              "RelativeDocumentMoniker": "DAO\\IplDaoImpl.cs",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\DAO\\IplDaoImpl.cs",
-              "RelativeToolTip": "DAO\\IplDaoImpl.cs",
-              "ViewState": "AQIAANAAAAAAAAAAAAAAANQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T05:11:23.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MatchStatistic.cs",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Models\\MatchStatistic.cs",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Models\\MatchStatistic.cs",
               "RelativeDocumentMoniker": "Models\\MatchStatistic.cs",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Models\\MatchStatistic.cs",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Models\\MatchStatistic.cs",
               "RelativeToolTip": "Models\\MatchStatistic.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,12 +188,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Marathon.Test.csproj",
               "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\Marathon.Test.csproj",
-              "RelativeDocumentMoniker": "..\\Marathon.Test\\Marathon.Test.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\Marathon.Test.csproj",
               "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\Marathon.Test.csproj",
-              "RelativeToolTip": "..\\Marathon.Test\\Marathon.Test.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Git Training\\SITraining1\\NETCORE\\Marathon.Test\\Marathon.Test.csproj",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-20T07:45:21.119Z"
@@ -184,9 +202,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Marathon.csproj",
-              "DocumentMoniker": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Marathon.csproj",
+              "DocumentMoniker": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Marathon.csproj",
               "RelativeDocumentMoniker": "Marathon.csproj",
-              "ToolTip": "D:\\Git Training\\SITraining1\\NETCORE\\Marathon\\Marathon.csproj",
+              "ToolTip": "D:\\Campus Training\\CodeMarathon_IPL\\DotNet\\Marathon\\Marathon.csproj",
               "RelativeToolTip": "Marathon.csproj",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

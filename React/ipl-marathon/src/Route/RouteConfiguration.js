@@ -13,7 +13,8 @@ const RouterConfig =()=>{
             <Route path="/" element={<Home/>}/>
             <Route path="/addplayer" element={<PostPlayer/>}/>
             <Route path="/matchstatistic" element={<MatchStatistic/>}/>
-            
+            <Route path="/topplayer" element={<TopPlayer/>}/>
+            <Route path="/matchbyrange" element={<BetweenRange/>}/>
 
         </Routes>
         
@@ -22,27 +23,3 @@ const RouterConfig =()=>{
 }
 
 export default RouterConfig
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// <Route path="/topplayer" element={<TopPlayer/>}/>
-//             <Route path="/matchbyrange" element={<BetweenRange/>}/>

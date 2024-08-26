@@ -1,12 +1,12 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { addPlayer } from "../Service/ApiService";
-
+import "../CSS/PostForm.css"
 import Navbar from "./Navbar";
 
 const PostPlayer=()=>{
 
-    const [player, setPlayer] = new useState({playerId:'', playerName:'', teamId:'', role:'', age:'', matchesPlayed: ''})
+    const [player, setPlayer] = new useState({playerId:0, playerName:'', teamId:0, role:'', age:0, matchesPlayed: 0})
     const [loading,setLoading]=useState(true)
     const [error,setError]=useState(null)
     const navigate = useNavigate();
@@ -20,7 +20,9 @@ const PostPlayer=()=>{
         try {
             setLoading(true);
             const response = await addPlayer(player);
-            
+            if (response.error) {
+                throw new Error(response.error.message);
+            }
             setLoading(false);
             console.log('Added the player : ' + response);
             navigate('/');  
