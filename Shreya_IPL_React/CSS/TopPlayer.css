@@ -1,0 +1,38 @@
+div {
+    margin: 20px;
+
+}
+
+div > div {
+    margin-bottom: 20px; 
+}
+
+ul {
+    list-style: none; 
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+li {
+    margin-bottom: 10px; 
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+p.loading {
+    color: #17a2b8; 
+    font-size: 20px;
+}
+
+p.error {
+    color: #dc3545; 
+    font-size: 20px;
+}
